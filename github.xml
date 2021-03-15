@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="4dd6391c-0a9d-4aca-be7e-1e54eba5a4eb" name="rdariopv">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="rdariopv@gmail.com" />
     <option name="AUTH_TYPE" value="BASIC" />
